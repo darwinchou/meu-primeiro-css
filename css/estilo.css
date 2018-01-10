@@ -1,0 +1,13 @@
+#titulo-da-noticia{
+  color: green;
+}
+h1{
+  color:red;
+}
+.principal {
+  border-style: solid;
+  border-color: black;
+}
+h1.principal{
+  color: blue;
+}
